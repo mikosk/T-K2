@@ -16,4 +16,10 @@
 ####það er að fara reglulega yfir tölvu íhluti og kerfi. Skipta þeim
 #### yfir í ný og uppfæra stýrikerfin.
 
+###4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir 
+###höfum við til að verjast því þegar unnið er með tölvubúnað?
+####esd er electrostatic discharge sem er stöðurafmagn sem kemur ef 
+####tveir hlutir snertast saman. til að verjast fyrir þessu getur maður ####notað sérstakt armand sem jafnar spennu/rafmags milli hluta. 
+
+
 
