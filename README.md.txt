@@ -19,7 +19,11 @@
 ###4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir 
 ###höfum við til að verjast því þegar unnið er með tölvubúnað?
 ####esd er electrostatic discharge sem er stöðurafmagn sem kemur ef 
-####tveir hlutir snertast saman. til að verjast fyrir þessu getur maður ####notað sérstakt armand sem jafnar spennu/rafmags milli hluta. 
+####tveir hlutir snertast saman. til að verjast fyrir þessu getur maður ####notað sérstakt armand sem jafnar spennu/rafmags milli hluta.
+
+###5. Hvað þarf að hafa í huga við val á spennugjöfum?
+####Hvort spennugjafinn nægir vel fyrir alla íhluti og hvort hann ####passar í tölvu kassan.
+
 
 
 
