@@ -1,12 +1,12 @@
-#GIT Tæk2
+GIT Tæk2
 
-## git verkefni 2
+ git verkefni 2
 
 
 
-### 1. Fyrir hvað stendur skammstöfunin RAM? Útskýrðu hvað RAM er.
-####	RAM stendur fyrir random acces memory . Vinnsluminni sem les 
-#### gögn frá hörðum eða ssd diski yfir í móðurborðir á svakalega hraða.
+ 1. Fyrir hvað stendur skammstöfunin RAM? Útskýrðu hvað RAM er.
+	RAM stendur fyrir random acces memory . Vinnsluminni sem les 
+ gögn frá hörðum eða ssd diski yfir í móðurborðir á svakalega hraða.
 
 2. Fyrir hvað stendur skammstöfunin ROM? Útskýrðu hvað ROM er.
 	ROM stendur fyrir read-only memory. virkar eins og RAM nema það
@@ -38,6 +38,19 @@ Nefnið dæmi um báðar gerðir af spurningum.
 
 9. Nefndu þrjú dæmi um inntakstæki.
 	Tölvuskjár , hátalarar, prentari.
+
+10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
+
+móðurborð: MSI Z170A-G45 Gaming - 29.560kr. att.is
+Örgjörvi:Intel i5 6600K 3.5 ~ 3.9 GHz 33.900kr - tölvutækni
+skjákort:Geforce GTX 1060 6 GB - 43.950kr . - att.is
+Vinnsluminni:G.Skill 8GB Sniper 2400MHz DDR3 - 8.500kr - kísildalur
+minni:256 GB Samsung 850 PRO ssd - 22.700 - start
+spennugjafi:Cooler Master G750M 750W - 19.900 - Tölvutækni
+tölvukassi: Cooler Master 690 III - 23.950kr - att.is
+samtals kr. : 182.460kr.
+
+
 
 
 
